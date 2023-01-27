@@ -3,7 +3,7 @@
 }
 
 #body {
-    height: 100vh;
+    min-height: 100vh;
     display: grid;
     align-items: center;
     background-color: hsl(212, 45%, 89%);
@@ -29,7 +29,7 @@ img {
 
 #title {
     color: hsl(218, 44%, 22%);
-    font-size: 22px;
+    font-size: 1.4em;
     font-weight: bold;
     margin: 0 20px 20px 20px;
 }
